@@ -2,6 +2,12 @@
 
 This project analyzes video recordings of online meetings (e.g., Zoom, Google Meet) to identify speakers, extract their names from name cards/tiles, save images of their tiles, and optionally generate cartoon-style avatars based on those images using the OpenAI API.
 
+![Example Avatar Generation](assets/images/avatar_example.png) <!-- Add your example image here -->
+
+## News Announcement! 🚀
+
+This project now leverages the **latest OpenAI Image Generation model (`gpt-image-1`)**, available via the Edits API! This allows for high-quality, customized avatar generation based directly on speaker images from video calls.
+
 ## Features
 
 *   Processes video files (e.g., MP4).
@@ -34,7 +40,7 @@ This project analyzes video recordings of online meetings (e.g., Zoom, Google Me
 1.  **Clone the repository:**
     ```bash
     # Replace with the actual URL after creating the GitHub repository
-    git clone https://github.com/your-username/fun-speakers-avatars.git
+    git clone https://github.com/sabbah13/fun-speakers-avatars.git
     cd fun-speakers-avatars
     ```
 
