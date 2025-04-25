@@ -2,9 +2,9 @@
 
 This project analyzes video recordings of online meetings (e.g., Zoom, Google Meet) to identify speakers, extract their names from name cards/tiles, save images of their tiles, and optionally generate cartoon-style avatars based on those images using the OpenAI API.
 
-![Example Avatar Generation](assets/images/avatar_example.png) <!-- Add your example image here -->
+![Example Avatar Generation](assets/images/demo.png) <!-- Add your example image here -->
 
-## News Announcement! 🚀
+## New 🚀
 
 This project now leverages the **latest OpenAI Image Generation model (`gpt-image-1`)**, available via the Edits API! This allows for high-quality, customized avatar generation based directly on speaker images from video calls.
 
@@ -195,29 +195,3 @@ Please ensure your code follows basic Python style guidelines and include update
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```text
-MIT License
-
-Copyright (c) 2024 <Your Name or Organization>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
-**Note:** Remember to replace `<Your Name or Organization>` in the license text. 
