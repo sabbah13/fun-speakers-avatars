@@ -39,7 +39,6 @@ This project now leverages the **latest OpenAI Image Generation model (`gpt-imag
 
 1.  **Clone the repository:**
     ```bash
-    # Replace with the actual URL after creating the GitHub repository
     git clone https://github.com/sabbah13/fun-speakers-avatars.git
     cd fun-speakers-avatars
     ```
@@ -52,8 +51,8 @@ This project now leverages the **latest OpenAI Image Generation model (`gpt-imag
     ```
     *Note: DeepFace and PaddleOCR might download model files on first run.*
 
-3.  **(Optional) Create a `.env` file:**
-    If using avatar generation, create a file named `.env` in the project root directory and add your OpenAI API key:
+3.  **Create a `.env` file:**
+    Create a file named `.env` in the project root directory and add your OpenAI API key:
     ```env
     OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     ```
