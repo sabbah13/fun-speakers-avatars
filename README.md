@@ -6,7 +6,7 @@ This project analyzes video recordings of online meetings (e.g., Zoom, Google Me
 
 ## New 🚀
 
-This project now leverages the **latest OpenAI Image Generation model (`gpt-image-1`)**, available via the Edits API! This allows for high-quality, customized avatar generation based directly on speaker images from video calls.
+This project now leverages the **latest OpenAI Image Generation model (`gpt-image-1`)**, available via Image Generation API! This allows for high-quality, customized avatar generation based directly on speaker images from video calls.
 
 ## Features
 
